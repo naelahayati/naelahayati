@@ -52,6 +52,13 @@
 
 ---
 
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naelahayati/naelahayati/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
 ## 🌊 Let's Connect!
 
 📧 **Email:** [nananan@gmail.com](mailto:nananan@gmail.com)  
